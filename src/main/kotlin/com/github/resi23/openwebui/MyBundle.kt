@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.resi23.openwebui
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
